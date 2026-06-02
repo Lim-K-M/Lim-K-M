@@ -1,4 +1,5 @@
-## Hi there 👋
+### 안녕하세요 임규입니다.👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLim-K-M)](https://hits.seeyoufarm.com)
 
 <!--
 **Lim-K-M/Lim-K-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=Lim-K-M&show_icons=true&hide_border=true)](https://github.com/Lim-K-M)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lim-K-M&layout=compact)](https://github.com/Lim-K-M)
