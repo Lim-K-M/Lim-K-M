@@ -1,4 +1,4 @@
-### 안녕하세요 임규입니다.👋
+### 안녕하세요 임규민입니다.👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLim-K-M)](https://hits.seeyoufarm.com)
 
 <!--
