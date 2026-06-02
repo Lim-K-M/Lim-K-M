@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=Lim-K-M&show_icons=true&hide_border=true)](https://github.com/Lim-K-M)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lim-K-M&layout=compact)](https://github.com/Lim-K-M)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lim-K-M&layout=compact&v=1)](https://github.com/Lim-K-M)
